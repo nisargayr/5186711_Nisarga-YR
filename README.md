@@ -8,7 +8,6 @@ SDLC Certificate
 
 ![SDLC Certificate](https://github.com/nisargayr/5186711_Nisarga-YR/blob/main/SDLC/SDLC_Certificate.jpg)
 
-Linux Assignment
 
 ![Linux Commands](https://github.com/nisargayr/5186711_Nisarga-YR/blob/main/Linux_Assignment/Screenshot_1.png)
 
@@ -16,7 +15,7 @@ Linux Assignment
 
 ![Linux Commands](https://github.com/nisargayr/5186711_Nisarga-YR/blob/main/Linux_Assignment/Screenshot_3.png )
 
-![Linux Commands](https://github.com/nisargayr/5186711_Nisarga-YR/blob/main/Linux_Assignment/Screenshot_4.png )
+![Linux Commands](https://github.com/nisargayr/5186711_Nisarga-YR/blob/main/Linux_Assignment/Screenshot%20_4.png)
 
 ![Linux Commands](https://github.com/nisargayr/5186711_Nisarga-YR/blob/main/Linux_Assignment/Screenshot_5.png)
 
