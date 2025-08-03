@@ -27,4 +27,8 @@ SDLC Certificate
 
 ![Linux Commands](https://github.com/nisargayr/5186711_Nisarga-YR/blob/main/Linux_Assignment/Screenshot_9.png)
 
+![Linux Commands](https://github.com/nisargayr/5186711_Nisarga-YR/blob/main/Linux_Assignment/Screenshot_10.png)
+
+
+
 
